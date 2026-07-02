@@ -1,4 +1,3 @@
-# natural-language-data-analyst
 
 # 📊 AI Natural Language Data Analyst
 
