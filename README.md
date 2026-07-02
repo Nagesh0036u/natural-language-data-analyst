@@ -33,48 +33,6 @@ AI Natural Language Data Analyst is a Streamlit-based web application that allow
 
 ---
 
-## 📂 Project Structure
-
-```
-AI-Natural-Language-Data-Analyst/
-│── app.py
-│── sql_generator.py
-│── examples.py
-│── downloads.py
-│── requirements.txt
-│── README.md
-```
-
----
-
-## 🚀 How to Run
-
-### Clone the repository
-
-```bash
-git clone https://github.com/yourusername/AI-Natural-Language-Data-Analyst.git
-```
-
-### Go to the project folder
-
-```bash
-cd AI-Natural-Language-Data-Analyst
-```
-
-### Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### Run the application
-
-```bash
-streamlit run app.py
-```
-
----
-
 ## 💬 Example Questions
 
 - Show all data
@@ -117,10 +75,4 @@ The application provides:
 
 ## 👩‍💻 Author
 
-**Likitha BN**
-
-BE – Data Science
-
-Aditya College of Engineering and Technology
-
-Bengaluru, India
+Nagesh R
